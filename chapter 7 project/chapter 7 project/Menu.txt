@@ -1,0 +1,10 @@
+Coke
+2.5
+Sprite
+3.5
+Mr.Pib
+3.5
+Mtn-Dew
+4
+Fanta
+2.5

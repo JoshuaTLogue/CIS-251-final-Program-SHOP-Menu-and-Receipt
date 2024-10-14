@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\repos\chapter 7 project\chapter 7 project\Source.cpp(137,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\repos\chapter 7 project\chapter 7 project\Source.cpp(384,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\repos\chapter 7 project\chapter 7 project\Source.cpp(384,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\repos\chapter 7 project\chapter 7 project\Source.cpp(133,97): warning C4101: 'LuckyNumbers': unreferenced local variable
+  chapter 7 project.vcxproj -> F:\repos\chapter 7 project\x64\Debug\chapter 7 project.exe
